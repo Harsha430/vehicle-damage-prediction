@@ -1,0 +1,7 @@
+Flask==2.3.3
+opencv-python==4.9.0.80
+numpy==1.26.4
+Werkzeug==3.0.1
+ultralytics==8.1.25
+python-dateutil==2.8.2
+gunicorn==21.2.0
